@@ -122,9 +122,8 @@ threat-modelling-stride/
 ├── report/
 │   └── Threat_Modelling_Assignment_Khadija_Amer.pdf
 └── diagrams/
-    ├── scenario1_auth_system.json       (Threat Dragon DFD)
-    ├── scenario2_payment_api.json       (Threat Dragon DFD)
-    └── scenario3_healthcare_micro.json  (Threat Dragon DFD)
+    ├── Threat Modeling Assingment_all_Scenerios.json       (Threat Dragon DFD)
+   
 ```
 
 ---
